@@ -107,8 +107,8 @@
 			children = (
 				232BD688263C3A5F00321AEF /* AppDelegate.swift */,
 				232BD68A263C3A5F00321AEF /* SceneDelegate.swift */,
-				232BD6C4263C3B6A00321AEF /* Controller */,
 				232BD6BE263C3B3B00321AEF /* TabBar */,
+				232BD6C4263C3B6A00321AEF /* Controller */,
 				232BD691263C3A6200321AEF /* Assets.xcassets */,
 				232BD693263C3A6200321AEF /* LaunchScreen.storyboard */,
 				232BD696263C3A6200321AEF /* Info.plist */,
