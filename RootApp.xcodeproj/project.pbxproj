@@ -17,6 +17,7 @@
 		232BD6C0263C3B5B00321AEF /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232BD6BF263C3B5B00321AEF /* TabBarViewController.swift */; };
 		232BD6C6263C3B8100321AEF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232BD6C5263C3B8100321AEF /* HomeViewController.swift */; };
 		232BD6D1263C3BED00321AEF /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232BD6D0263C3BED00321AEF /* SearchViewController.swift */; };
+		232BD6D9263C402400321AEF /* OrdersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232BD6D8263C402400321AEF /* OrdersViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		232BD6BF263C3B5B00321AEF /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		232BD6C5263C3B8100321AEF /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		232BD6D0263C3BED00321AEF /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		232BD6D8263C402400321AEF /* OrdersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrdersViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 			children = (
 				232BD6C5263C3B8100321AEF /* HomeViewController.swift */,
 				232BD6D0263C3BED00321AEF /* SearchViewController.swift */,
+				232BD6D8263C402400321AEF /* OrdersViewController.swift */,
 				232BD68C263C3A5F00321AEF /* ProfileViewController.swift */,
 			);
 			path = Controller;
@@ -282,6 +285,7 @@
 				232BD6D1263C3BED00321AEF /* SearchViewController.swift in Sources */,
 				232BD6C6263C3B8100321AEF /* HomeViewController.swift in Sources */,
 				232BD6C0263C3B5B00321AEF /* TabBarViewController.swift in Sources */,
+				232BD6D9263C402400321AEF /* OrdersViewController.swift in Sources */,
 				232BD68D263C3A5F00321AEF /* ProfileViewController.swift in Sources */,
 				232BD689263C3A5F00321AEF /* AppDelegate.swift in Sources */,
 				232BD68B263C3A5F00321AEF /* SceneDelegate.swift in Sources */,
